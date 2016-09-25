@@ -1,0 +1,5 @@
+name: Minecraft.no
+author: kiwhen
+website: http://www.minecraft.no
+version: 1.0
+main: no.minecraft.serverstatus.Main
